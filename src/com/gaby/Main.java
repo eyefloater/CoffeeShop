@@ -135,7 +135,7 @@ while (!scan.hasNextInt()) {
 }
 mocha.setTotalSold(scan.nextInt());
 
-
-//write sales report to sales-report.txt
+//generate sales report using name and totalSold data from each Drink
+//write the sales report to sales-report.txt
 }
 }
